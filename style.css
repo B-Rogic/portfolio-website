@@ -247,6 +247,7 @@ header.active{
 }
 
 .about-me {
+    padding-inline: 20px;
     max-width: 100%;
     width: 50%;
     padding-block: 30px;
