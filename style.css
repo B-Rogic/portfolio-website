@@ -340,7 +340,7 @@ footer li a.active{
     }
 
     .custom-navbar ul.active{
-        right: 0;
+        right: 50px;
     }
     
     .custom-navbar ul li{
