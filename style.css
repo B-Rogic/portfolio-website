@@ -129,7 +129,6 @@ header.active{
 .portfolio-hero .portfolio-text .inner-text text{
     font-size: 80px;
     color: white;
-    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.3);
     animation: letterSpacing linear 0.5s forwards;
 }
 
